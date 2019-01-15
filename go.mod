@@ -1,1 +1,1 @@
-module github.com/alpcemkizilkaya/demo
+module github.com/alpcemkizilkaya/demodependencygo/
